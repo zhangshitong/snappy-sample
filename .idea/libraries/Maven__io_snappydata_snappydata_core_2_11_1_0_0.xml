@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Maven: io.snappydata:snappydata-core_2.11:1.0.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/snappydata/snappydata-core_2.11/1.0.0/snappydata-core_2.11-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/snappydata/snappydata-core_2.11/1.0.0/snappydata-core_2.11-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/snappydata/snappydata-core_2.11/1.0.0/snappydata-core_2.11-1.0.0-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../snappydata" />
+      <root url="file://$PROJECT_DIR$/../snappydata/cluster/src/dunit/scala" />
+      <root url="file://$PROJECT_DIR$/../snappydata/cluster/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../snappydata/cluster/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../snappydata/core/src/dunit/java" />
+      <root url="file://$PROJECT_DIR$/../snappydata/core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../snappydata/core/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../snappydata/dunit/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../snappydata/examples/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

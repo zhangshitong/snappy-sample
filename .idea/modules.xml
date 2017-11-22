@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/snappy-app-sample.iml" filepath="$PROJECT_DIR$/.idea/snappy-app-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snappysample/snappysample.iml" filepath="$PROJECT_DIR$/snappysample/snappysample.iml" />
+    </modules>
+  </component>
+</project>
